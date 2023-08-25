@@ -17,7 +17,9 @@ and then go to shared with all groups > find your copied version of the collab f
 5) cd into the first repo you cloned in step 1 and run . env/bin/activate
 
 6) cd into notebooks in the showcase tutorial you cloned in step 2 and run:
+   <br>
 `pip install --upgrade pip`
+<br>
 `pip install -e ..`
 
 7) you should be able to run the py script (~/projects/def-rmcintos/jwangbay/model1.py) with your own sc/weights file hardcoded in the appropriate lines (line 13 i think). currently it just produces a bold timeseries. you can copy what you need from the showcase as needed
