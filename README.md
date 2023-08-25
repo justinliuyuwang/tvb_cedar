@@ -14,7 +14,7 @@ and then go to shared with all groups > find your copied version of the collab f
 
 4) run `module load scipy-stack`
 
-5) cd into the first repo you cloned in step 1 and run . env/bin/activate
+5) cd into the first repo you cloned in step 1 and run `. env/bin/activate`
 
 6) cd into notebooks in the showcase tutorial you cloned in step 2 and run:
    <br>
