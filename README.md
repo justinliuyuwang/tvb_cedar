@@ -10,7 +10,7 @@ You can also find the tutorial here:
 https://drive.ebrains.eu/
 and then go to shared with all groups > find your copied version of the collab for this showcase
 
-3) allocate a node using salloc --time=4:00:00 --mem=64000MB --account=rrg-rmcintos
+3) allocate a node using salloc --time=4:00:00 --mem=64000MB --account=<account>
 
 4) run module load scipy-stack
 
